@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "retinal-adaptive-spike-coding: simulations of adaptive analog-to-spike conversion in a retinal-inspired encoder"
+authors:
+  - family-names: Borjkhani
+    given-names: Mehdi
+    affiliation: "International Centre for Translational Eye Research (ICTER), Institute of Physical Chemistry, Polish Academy of Sciences"
+  - family-names: Borjkhani
+    given-names: Hadi
+    affiliation: "HTW Berlin - University of Applied Sciences"
+  - family-names: Sharif
+    given-names: Morteza A.
+    affiliation: "Urmia University of Technology"
+  - family-names: Borycki
+    given-names: Dawid
+    affiliation: "International Centre for Translational Eye Research (ICTER), Institute of Physical Chemistry, Polish Academy of Sciences"
+license: MIT
+repository-code: "https://github.com/borjkhani/retinal-adaptive-spike-coding"
+date-released: 2026-10-18
